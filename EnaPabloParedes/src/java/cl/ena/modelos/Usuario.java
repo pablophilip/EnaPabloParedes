@@ -10,5 +10,6 @@ package cl.ena.modelos;
  * @author pparedes
  */
 public class Usuario {
-    
+    private String nombre;
+    private String apellido;
 }
